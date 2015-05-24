@@ -40,7 +40,7 @@ tableBtnLabel = Label(text='Table Controller')
 
 scannerUp = Button(scanGui, text="UP +")
 scannerDown = Button(scanGui, text="DOWN -")
-tablePowerBtn = Button(scanGui, text="ON", command=turnTable)
+tablePowerBtn = Button(scanGui, text="OFF", command=turnTable)
  
 
 #bind buttons to methods
