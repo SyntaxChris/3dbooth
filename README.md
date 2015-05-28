@@ -1,4 +1,4 @@
-# 3D SCANNER BOOTH
+## 3D SCANNER BOOTH
 ### Hardware
 * Arduino Micro (1)
 * Microstep Driver ST-M5045 (2)
