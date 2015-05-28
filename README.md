@@ -2,6 +2,8 @@
 ### Hardware
 * Arduino Micro (1)
 * Microstep Driver ST-M5045 (2)
+* Bipolar Nema 23
+* Bipolar Nema 23 stepper with planetary gearbox (Phidgets) 
 
 ### Driver Parameters
 ##### Scanner Driver
