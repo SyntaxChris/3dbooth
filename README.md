@@ -3,7 +3,7 @@
 * Arduino Micro (1)
 * Microstep Driver ST-M5045 (2)
 * Bipolar Nema 23 (1)
-* Bipolar Nema 23 stepper with planetary gearbox (Phidgets) (1)
+* Bipolar Nema 23 stepper with planetary gearbox (Phidgets part #57STH56-2804B/56JXS300K77) (1)
 
 ### Driver Parameters
 ##### Scanner Driver
